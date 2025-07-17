@@ -8,11 +8,6 @@ This is my personal portfolio website showcasing projects, skills, and services.
 - `packages/css/`: Custom and external stylesheets
 - `packages/js/`: JavaScript for interactivity
 
-## 🚀 Live Demo
-
-[GitHub Pages Link](https://your-username.github.io/my-portfolio)  
-*Replace with your actual GitHub Pages URL after uploading.*
-
 ## 📌 Features
 
 - Clean UI
