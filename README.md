@@ -14,11 +14,10 @@ This is my personal portfolio website showcasing projects, skills, and services.
 - Swiper-based sliders
 - Responsive layout
 
+## Website
+- https://chandukorada2610.github.io/Portfolio/
+
 ---
 
 Feel free to contribute or fork this project!
 "# Portfolio" 
-
-
-## Website
-- https://chandukorada2610.github.io/Portfolio/
